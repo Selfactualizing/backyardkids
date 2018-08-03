@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Backyard Kids",
-    "currentPage": ".html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -80,7 +80,7 @@
     ]
   },
   "pages": {
-    ".html": {
+    "home.html": {
       "settings": {
         "main": true,
         "title": "Backyard Kids",

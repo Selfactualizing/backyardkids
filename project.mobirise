@@ -35,7 +35,7 @@
     "versionFirst": "4.6.7",
     "uniqCompNum": 17,
     "versionPublish": "4.8.1",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/byk-favicon-128x120.png",
     "noImageResize": "",
     "screenshot": "screenshot.png",
     "siteFonts": [

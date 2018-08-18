@@ -584,8 +584,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
+#scrollToTop a {
+  border-radius: 100px;
 }
 #scrollToTop a i:before {
   content: '';
@@ -1929,15 +1929,15 @@ body {
   color: #ffffff;
 }
 .cid-qXjT2oYia6 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-qXjT2oYia6 .title {
   margin-bottom: 2rem;
 }
 .cid-qXjT2oYia6 .mbr-section-subtitle {
-  color: #55b4d4;
+  color: #149dcc;
 }
 .cid-qXjT2oYia6 a:not([href]):not([tabindex]) {
   color: #fff;
@@ -1954,6 +1954,9 @@ body {
 .cid-qXjT2oYia6 .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-qXjT2oYia6 H2 {
+  color: #149dcc;
 }
 .cid-qXjU9tszQk {
   padding-top: 90px;

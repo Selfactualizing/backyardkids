@@ -573,10 +573,12 @@
               }
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "center"
             },
             "H1": {
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "center"
             }
           },
           "_name": "header3",
